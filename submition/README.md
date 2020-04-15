@@ -3,17 +3,17 @@
 ## Part 1
 
 ### Requirement 1  UML Diagram
-<h4>Activity Diagram</h4>
+#### Activity Diagram
 ![Activity Diagram](images/activity.png)
 
 
-<h4>Sequence Diagram</h4>
+#### Sequence Diagram
 ![Sequence Diagram](images/sequence.png)
 
-<h4>State Diagram</h4>
+#### State Diagram
 ![State Diagram](images/state.png)
 
-<h4>Class Diagram</h4>
+#### Class Diagram<
 ![Class Diagram](images/class.png)
 
 
