@@ -39,3 +39,7 @@ All the required Smart Contracts were implemented.
 
 Tests are being implemented.
 
+## Part 4 - Deploy Smart Contracts
+
+https://rinkeby.etherscan.io/address/0xbc5d069e60e0066be6d03658764dc757ce3bb0a6
+
