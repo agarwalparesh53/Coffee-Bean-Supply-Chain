@@ -4,17 +4,17 @@
 
 ### Requirement 1  UML Diagram
 <h4>Activity Diagram</h4>
-![truffle test](uml/project6b-Activity%20Diagram.jpg)
+![Activity Diagram](uml/project6b-Activity%20Diagram.jpg)
 
 
 <h4>Sequence Diagram</h4>
-![truffle test](uml/project6b-Sequence%20Diagram.jpg)
+![Sequence Diagram](uml/project6b-Sequence%20Diagram.jpg)
 
 <h4>State Diagram</h4>
-![truffle test](uml/project6b-State%20Diagram.jpg)
+![State Diagram](uml/project6b-State%20Diagram.jpg)
 
 <h4>Class Diagram</h4>
-![truffle test](uml/project6b-Class%20Diagram.jpg)
+![Class Diagram](uml/project6b-Class%20Diagram.jpg)
 
 
 ### Requirement 2 Libraries
